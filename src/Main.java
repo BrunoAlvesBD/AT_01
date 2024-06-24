@@ -42,6 +42,7 @@ public class Main {
                 entrada.nextLine();
             }
         }
+        entrada.close();
         return num;
     }
     public static void contaOcorrencias(double[] valores) {

@@ -1,0 +1,1 @@
+assessmente 01 da disciplina de fundamento em Java, usa entrada do teclado, armazena em um Array e utilizando metodos para calcular media, e mostras valores acima da media e ocorrência de números.
